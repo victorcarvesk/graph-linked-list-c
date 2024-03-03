@@ -13,4 +13,5 @@ void main(int argc, char *argv[])
 
   print_graph(graph);
 
+  clear_graph(&graph);
 }
